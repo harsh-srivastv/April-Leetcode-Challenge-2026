@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3661-maximum-walls-destroyed-by-robots) |
+## String
+|  |
+| ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/2075-decode-the-slanted-ciphertext) |
+## Simulation
+|  |
+| ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
