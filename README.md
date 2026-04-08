@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/0874-walking-robot-simulation) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/0874-walking-robot-simulation) |
 | [2069-walking-robot-simulation-ii](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/2075-decode-the-slanted-ciphertext) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
