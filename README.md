@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/0874-walking-robot-simulation) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
@@ -50,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
