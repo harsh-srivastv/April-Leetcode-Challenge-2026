@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/0874-walking-robot-simulation) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
@@ -96,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Prefix Sum
 |  |
@@ -113,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/harsh-srivastv/April-Leetcode-Challenge-2026/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
